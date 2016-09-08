@@ -11,6 +11,7 @@ namespace GoogleLogin.Services
     /// </summary>
     public class GoogleServices
     {
+
         /// <summary>
         /// Create a new app and get new creadentials: 
         /// https://console.developers.google.com/apis/
